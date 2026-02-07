@@ -1,5 +1,6 @@
 # Tamil Selvan K
-Hi, I'm Tamil Selvan   MERN Stack Developer | Full Stack Engineer | Cloud &amp; DevOps Learner
+Hi, I'm Tamil Selvan   
+MERN Stack Developer | Full Stack Engineer | Cloud &amp; DevOps Learner
 
 ## About
 I build scalable web apps using React.js, Node.js, Express, MongoDB and deploy them with cloud & DevOps practices.
