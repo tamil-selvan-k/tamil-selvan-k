@@ -148,7 +148,7 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack JavaScript Developer** 
 **Description:** High-performance quiz platform engineered to handle thousands of concurrent users. Features include dynamic question management, real-time scoring logic, interactive user feedback, comprehensive assessment tools, and scalable backend architecture. Built with performance optimization and user experience in mind.
 
 ### 🔹 [ShadowTraceAI](https://github.com/tamil-selvan-k/ShadowTraceAI)
-**Tech Stack:** FastAPI, Python, React.js, Machine Learning  
+**Tech Stack:** FastAPI, Python, React.js  
 **Description:** AI-powered web application leveraging JavaScript and Python for intelligent tracking and pattern analysis. Designed for smart automation use cases with predictive analytics, data visualization, and intelligent decision-making capabilities.
 
 <br />
