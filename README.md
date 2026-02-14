@@ -38,7 +38,7 @@
   <p align="center" style="max-width: 700px; font-size: 1.2rem;">
     <i>Building scalable web applications and shipping them with modern cloud and DevOps practices.</i>
     <br/>
-    Specialized in <strong>MERN Stack Development</strong> (MongoDB, Express.js, React.js, Node.js), <strong>REST API Design</strong>, <strong>Full Stack JavaScript Development</strong>, and <strong>Cloud Deployment</strong>.
+    Specialized in <strong>MERN Stack Development</strong> (MongoDB, Express.js, React.js, Node.js), <strong>REST API Design</strong>, <strong>Full Stack Development</strong>, and <strong>Cloud Deployment</strong>.
   </p>
 </div>
 
@@ -46,7 +46,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Tamil Selvan K** — a passionate **Full Stack JavaScript Developer** and **Software Engineer** specializing in building high-performance, scalable web applications. I leverage the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to create robust solutions from frontend to backend.
+Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Software Engineer** specializing in building high-performance, scalable web applications. I leverage the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to create robust solutions from frontend to backend.
 
 ### What I Do
 - 💻 **Full Stack Web Development**: Building end-to-end web applications with React.js frontend and Node.js/Express backend
