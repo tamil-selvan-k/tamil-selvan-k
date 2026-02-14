@@ -46,7 +46,7 @@
 
 <div align="center">
   
-  ### Technical Arsenal
+  ### Technical Weapons
 
   <br />
 
@@ -116,10 +116,10 @@
 
 | **Project** | **Stack** | **Description** |
 |:------------|:----------|:----------------|
-| **ThereYouGo** | `HTML` `CSS` | Modern responsive website with fast performance, clean layouts, and seamless cross-device UX. |
+| **ThereYouGo** | `HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB` | Modern responsive website with fast performance, clean layouts, and seamless cross-device UX. |
 | **whatsapp-clone** | `MERN` `WebSockets` | Real-time WhatsApp-style chat app with responsive UI and modern frontend architecture. |
 | **Quizz** | `React` `Node.js` `Express` `MongoDB` | High-performance quiz platform supporting multiple questions, scoring logic, and interactive feedback. |
-| **ShadowTraceAI** | `JavaScript` | AI-inspired web app that simulates intelligent tracking and pattern analysis for automation use cases. |
+| **ShadowTraceAI** | `FastAPI` `Python` `React` | AI-inspired web app that simulates intelligent tracking and pattern analysis for automation use cases. |
 
 <br />
 
