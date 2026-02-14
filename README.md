@@ -8,7 +8,7 @@
     MERN Full Stack Developer | Software Engineer | Cloud &amp; DevOps Enthusiast
   </h1>
   
-  <p><strong>Full Stack JavaScript Developer | React.js Expert | Node.js Backend Engineer | MongoDB Specialist</strong></p>
+  <p><strong> Full Stack Developer | Backend Engineer </strong></p>
   
   <br />
 
