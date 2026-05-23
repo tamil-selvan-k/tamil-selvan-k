@@ -219,7 +219,7 @@ Hi, I'm **Tamil Selvan K** — a passionate **Full Stack Developer** and **Softw
 🌍 **Location:** India  
 📧 **Email:** [tamilselvan.k.dev@gmail.com](mailto:tamilselvan.k.dev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/tamilselvan2007](https://linkedin.com/in/tamilselvan2007)  
-🌐 **Portfolio:** [tamil-selvan-k.github.io/myportfolio](https://tamil-selvan-k.vercel.app)  
+🌐 **Portfolio:** [tamil-selvan-k.vercel.app](https://tamil-selvan-k.vercel.app)  
 💻 **GitHub:** [@tamil-selvan-k](https://github.com/tamil-selvan-k)
 
 ### 🎯 What I'm Looking For
