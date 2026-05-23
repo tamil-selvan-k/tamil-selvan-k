@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://tamil-selvan-k.github.io/myportfolio">
+    <a href="https://tamil-selvan-k.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio" />
     </a>
   </p>
